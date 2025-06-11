@@ -11,3 +11,6 @@ Changelog
 10/06 - Gabriela
 - Configurei os dispositivos e serviços da Rede LAN 01 (Domínio Amarelo), incluindo roteador (IP LAN, DHCP com reserva para Laptop, Wireless), servidor HTTP local (IP estático) e dispositivos finais (DHCP, conexão wireless). Testes de conectividade interna (ping) foram realizados com sucesso.
 
+11/06 - Lávio
+- Adicionei os IPs nas tabelas de DHCP para as redes vermelha e amarela.
+
