@@ -26,3 +26,9 @@ Changelog
 - Configurado dominio e nomes no servidor DNS.
 - Configurado usuário (aluno → 12345 e professor → 12345) no servidor de email e em seus host: PC-PT (LAN Vermelha) → Professor, Laptop-PT (LAN Amarela) → Aluno.
 - Desativado o serviço HTTP dos servidores que não é o servidor HTTP.
+
+10/07 - Thales
+
+- Fixed servidor HTTP local.
+- Configuração da NAT no aplications porta 80/80.
+- Testes aplicados nos servidores.
